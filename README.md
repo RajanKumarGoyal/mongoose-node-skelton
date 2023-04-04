@@ -27,8 +27,8 @@ Make sure you have Node.js and npm install.
 3. MongoDB start for need <pre>mongod</pre>command from a different terminal.
 
 4. Start the Application
-      <pre>node app.js</pre>
-   Application runs from localhost:3000.
+      <pre>npm run start</pre>
+   Application runs from localhost:4033.
 
 ## How It Works
 
@@ -43,7 +43,7 @@ To start the express server, run the following
 npm run start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) and take a look around.
+Open [http://localhost:4033](http://localhost:4033) and take a look around.
 
 -->
 
